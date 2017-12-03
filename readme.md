@@ -28,5 +28,10 @@ Note: TypeScript won't do anything in runtime, it works only during compilation 
 ### Installation
 
 ```sh
+$ git clone https://github.com/Rjoydip/express-typescript-example.git
+$ cd express-typescript-example
 $ npm install
+$ npm start
 ```
+
+Visit in your browser at: [localhost:3000](http://localhost:3000)
