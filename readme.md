@@ -1,4 +1,4 @@
-# express-typescript-example
+# ts-node-express
 
 This is a simple express server using typescript.
 
@@ -28,7 +28,7 @@ Note: TypeScript won't do anything in runtime, it works only during compilation 
 ### Installation
 
 ```sh
-$ git clone https://github.com/Rjoydip/express-typescript-example.git
+$ git clone https://github.com/Rjoydip/ts-node-express.git
 $ cd express-typescript-example
 $ npm install
 $ npm start
